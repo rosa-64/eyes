@@ -2,7 +2,7 @@
 This is a list of educational references meant to cover some of the gaps in the American public education system.
 
 #1
-Collection of Solitary Confinement Witness Testimony
+Collection of Solitary Confinement Witness Testimony <br>
 Authors: Brooke Kessler, Lynn Kim, Drew Frey, Percy Mixson, Tatum Barclay
 From: Hamilton College, the Hamilton Commons
 Date: May 17, 2021
