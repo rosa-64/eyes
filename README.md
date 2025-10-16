@@ -14,5 +14,5 @@ Comment: The true face of solitary confinement and the American prison system th
 How America Tortures <br>
 Author: Mark P. Denbeaux <br>
 Seton Hall University School of Law - Center for Policy and Research <br>
-Link: https://www.americandelusions.com/wp-content/uploads/2019/12/HowAmericaTortures-Denbeaux.pdf
+Link: https://www.americandelusions.com/wp-content/uploads/2019/12/HowAmericaTortures-Denbeaux.pdf <br>
 Comment: This describes some of the well-documented and extreme long-term torture and sexual assault that the American government extrajudicially inflicted upon people from various parts of the world.
