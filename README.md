@@ -22,3 +22,11 @@ A Criminal Enterprise? Shell's Involvement in Human Rights Violations in Nigeria
 Amnesty International <br>
 Date: 2017 <br>
 Link: https://www.amnesty.nl/content/uploads/2017/11/A-criminal-enterprise.pdf?x52413 <br>
+
+#4 <br>
+Crime, Corruption and Cover-ups in the Chicago Police Department <br>
+Anti-Corruption Report Number 7 <br>
+Authors: John Hagedorn, Bart Kmiecik, Dick Simpson, et al. <br>
+University of Illinois at Chicago - Department of Political Science <br>
+Date: January 17, 2013 <br>
+Link: https://pols.uic.edu/wp-content/uploads/sites/273/2018/10/ac_policecorruptionb6e6.pdf <br>
