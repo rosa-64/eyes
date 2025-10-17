@@ -15,7 +15,7 @@ How America Tortures <br>
 Author: Mark P. Denbeaux <br>
 Seton Hall University School of Law - Center for Policy and Research <br>
 Link: https://www.americandelusions.com/wp-content/uploads/2019/12/HowAmericaTortures-Denbeaux.pdf <br>
-Description: This describes some of the well-documented and extreme long-term torture and sexual assault that the American government extrajudicially inflicted upon people trafficked from various parts of the world.
+Description: This describes some of the well-documented and extreme long-term torture and sexual assault that the American government extrajudicially inflicted upon people it had trafficked from various parts of the world.
 
 #3 <br>
 A Criminal Enterprise? Shell's Involvement in Human Rights Violations in Nigeria in the 1990s <br>
