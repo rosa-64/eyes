@@ -47,3 +47,10 @@ Databases of Known Associates of Deputy Gangs in the Los Angeles County Sheriff�
 "Part of A Tradition of Violence, a 15-part investigative series by Cerise Castle published by Knock LA, and Life Under the Gun: An Analysis of Shootings by the Los Angeles County Sheriff’s Department, a project supported by the USC Annenberg Center for Health Journalism’s 2023 California Health Equity Impact Fund, and by the International Women’s Media Foundation’s Howard G. Buffett Fund for Women Journalists." <br>
 Knock LA <br>
 Link: https://lasd.knock-la.com/ <br>
+
+#7 <br>
+Mutual Aid: Building Solidarity During This Crisis (and the Next) <br>
+Author: David Spade <br>
+Anarchist Library <br>
+Date: 2020 <br>
+Link: https://theanarchistlibrary.org/library/dean-spade-mutual-aid <br>
