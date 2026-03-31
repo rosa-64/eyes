@@ -30,3 +30,20 @@ Authors: John Hagedorn, Bart Kmiecik, Dick Simpson, et al. <br>
 University of Illinois at Chicago - Department of Political Science <br>
 Date: January 17, 2013 <br>
 Link: https://pols.uic.edu/wp-content/uploads/sites/273/2018/10/ac_policecorruptionb6e6.pdf <br>
+
+#5 <br>
+A Tradition of Violence
+The History of Deputy Gangs in the Los Angeles County Sheriff’s Department <br>
+Authors: Cerise Castle <br>
+Editors: Liam Fitzpatrick, Maggie Clancy, Brittani Nichols <br>
+Tech and Research Assistance: Ricky de Laveaga, Jonathan Peltz <br>
+Knock LA <br>
+Date: March 2021 - April 2021 <br>
+Link: https://knock-la.com/tradition-of-violence-lasd-gang-history/ <br>
+
+#6 <br>
+LASD Records:
+Databases of Known Associates of Deputy Gangs in the Los Angeles County Sheriff’s Department and Deputy Shootings 1984-Current <br>
+"Part of A Tradition of Violence, a 15-part investigative series by Cerise Castle published by Knock LA, and Life Under the Gun: An Analysis of Shootings by the Los Angeles County Sheriff’s Department, a project supported by the USC Annenberg Center for Health Journalism’s 2023 California Health Equity Impact Fund, and by the International Women’s Media Foundation’s Howard G. Buffett Fund for Women Journalists." <br>
+Knock LA <br>
+Link: https://lasd.knock-la.com/ <br>
