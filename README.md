@@ -54,3 +54,10 @@ Author: David Spade <br>
 Anarchist Library <br>
 Date: 2020 <br>
 Link: https://theanarchistlibrary.org/library/dean-spade-mutual-aid <br>
+
+#8 <br>
+Are we truly fighting ableism? Digressions for a complex society <br>
+Authors: Lucas Teles da Silva, Dimitri Marques Abramov, Daniel de Freitas Quintanilha <br>
+Frontiers in Sociology Journal <br>
+Date: July 30, 2025 <br>
+Link: https://pmc.ncbi.nlm.nih.gov/articles/PMC12343582/ <br>
